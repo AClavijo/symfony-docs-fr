@@ -5,7 +5,7 @@ Extensions Twig Symfony2
 ========================
 
 Twig est le moteur de template par défaut de Symfony2. De lui-même, il contient
-déjà plein de fonction pré-construites, des filtres, des tags et des tests
+déjà plein de fonctions pré-construites, des filtres, des tags et des tests
 (`http://twig.sensiolabs.org/documentation`_ puis allez en bas de la page).
 
 Symfony2 ajoute plus d'extensions personnalisées par dessus Twig pour intégrer
